@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="990.5" height="1031.188" viewBox="0 0 990.5 1031.188">
+  <g id="new_chat" transform="translate(-20.797 -582.332)">
+    <g id="Layer_2" data-name="Layer 2" transform="translate(20.797 582.332)">
+      <g id="_33" data-name="33" transform="translate(0 0)">
+        <path id="Path_3386" data-name="Path 3386" d="M381.374,901.54A1294.481,1294.481,0,0,0,515.6,912.108c285,0,474.9-212.609,474.9-461.337S752.338,0,515.6,0C229.171,0,0,202.042,0,450.77,0,595.4,54.257,717.636,157.723,806.591v224.6Z" fill="#15be9b" fill-rule="evenodd"/>
+      </g>
+    </g>
+    <g id="menu_icon" transform="translate(724.725 990.214) rotate(90)">
+      <path id="Path_3369" data-name="Path 3369" d="M89.05,15.279a52.164,52.164,0,1,1-73.771,0,52.165,52.165,0,0,1,73.771,0" transform="translate(0 0)" fill="#eee"/>
+      <path id="Path_3370" data-name="Path 3370" d="M89.05,15.279a52.164,52.164,0,1,1-73.771,0,52.165,52.165,0,0,1,73.771,0" transform="translate(0 156.495)" fill="#eee"/>
+      <path id="Path_3371" data-name="Path 3371" d="M89.05,15.278a52.165,52.165,0,1,1-73.771,0,52.166,52.166,0,0,1,73.771,0" transform="translate(0 312.987)" fill="#eee"/>
+    </g>
+  </g>
+</svg>
